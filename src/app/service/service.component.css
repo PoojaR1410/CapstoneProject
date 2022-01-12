@@ -1,0 +1,10 @@
+.service-icon {
+    display: inline-block;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color:#fdbe02;
+    background: #9b9999;
+    padding: 0.5rem 1rem;
+    border-radius: 50%;
+  }
+  

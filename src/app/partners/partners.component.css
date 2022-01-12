@@ -1,0 +1,15 @@
+/* partners */
+.partners {
+    background: #9b9999;
+  }
+  .carousel-control-prev {
+    font-size: 2.5rem;
+    color: #071013;
+    transform: translateX(-200%);
+  }
+  .carousel-control-next {
+    font-size: 2.5rem;
+    color: #071013;
+    transform: translateX(200%);
+  }
+  

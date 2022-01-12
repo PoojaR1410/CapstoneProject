@@ -1,0 +1,10 @@
+
+.banner {
+    min-height: calc(100vh - 101px);
+    background: url("/assets/img/pageBcg/bannerBcg.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+  

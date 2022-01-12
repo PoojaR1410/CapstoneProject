@@ -1,0 +1,34 @@
+<form [formGroup]="details" >
+<div class="container custom-container">
+  <div class="col-md-12">
+    <h3 class="mb-3 text-center">Add Products</h3>
+
+    <div class="form-group">
+      <input type="text" formControlName="name" class="form-control" placeholder="Name">
+    </div>
+<br>
+    <div class="form-group">
+      <input type="text" formControlName="productDesc" class="form-control" placeholder="Whats the product">
+    </div>
+    <br>
+
+    <div class="form-group">
+      <input type="text" formControlName="uploadPhoto" class="form-control" placeholder="Photourl">
+    </div>
+    <br>
+
+    <div class="form-group">
+      <input type="text" formControlName="mrp" class="form-control" placeholder="Actual Price">
+    </div>
+    <br>
+    <div class="form-group">
+      <input type="text" formControlName="dp" class="form-control" placeholder="Discount Price">
+    </div>
+<br>
+    <div class="form-group">
+      <button class="btn btn-success btn-lg btn-block" (click)="addEmployee()">Add Product</button>
+    </div>
+
+  </div>
+</div>
+</form>

@@ -1,0 +1,53 @@
+<app-adminnav></app-adminnav>
+
+<div class="container custom-container-2">
+
+    <div class="no-data text-center" *ngIf="orders.length == 0">
+      <p>There is no Order yet!</p>
+
+    </div>
+  
+
+    <div *ngIf="orders.length !== 0">
+      <h3 class="mb-3 text-center">Order List</h3>
+  
+      <div class="col-md-12">
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col">Id</th>
+              <th scope="col">Name</th>
+              <th scope="col">Product</th>
+              <th scope="col">Description</th>
+              <th scope="col">Price</th>
+              <!-- <th scope="col">Approve</th>
+              <th scope="col">Delete</th> -->
+              <!-- <th scope="col">Discount Price</th> -->
+             
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let orders of orders ; let i = index" >
+              <td>{{i+1}}</td>
+              <td>{{orders.name}}</td>
+              <td><img style="width: 160px;" src="{{orders.uploadPhoto}}" alt=""></td>
+              <td>{{orders.productDesc}}</td>
+              <!-- <td>{{orders.mrp}}</td> -->
+              <td>{{orders.dp}}</td>
+              <!-- <td>
+                <button (click)="removeItem(orders)" class="btn btn-danger"><i class="fas fa-trash-alt"></i></button>
+            </td>
+               <td>
+                <button class="btn btn-success" (click)="approveOrder(orders.id)"><i class="glyphicon glyphicon-ok"></i></button>  </td> 
+             
+                
+             -->
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  
+  </div>
+
+  <app-footer></app-footer>

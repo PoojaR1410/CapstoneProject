@@ -1,0 +1,33 @@
+
+
+
+<div class="item">
+    <a (click)="filter('bed')">
+        <img src="https://rukminim1.flixcart.com/flap/128/128/image/82b3ca5fb2301045.png?q=100" alt="">
+        <h6>Fashion</h6>
+    </a>
+</div>
+<div class="container">
+    <div class="row">
+        <ng-container *ngFor="let item of filterCategory | filter:searchKey:'title'">
+           
+                <div class="col-sm-4 product" >
+                    <div class="card">
+                        <img src="{{item.uploadPhoto}}" class="card-img-top" alt="{{item.name}}">
+                        <div class="card-body">
+                            <h4 class="card-title">{{item.name}}</h4>
+                            <p><span class="float-left"><strong>MRP</strong>: <del>{{item.mrp}}</del></span> 
+                                &nbsp;&nbsp;<span class="float-right"><strong>DP</strong>:
+                                    {{item.dp}}</span></p>
+                            <br>
+                            <p class="card-text product-desc">{{item.productDesc}}</p>
+                            <button class="btn btn-primary" (click)=addtocart(item)>Add to cart</button>
+                             <!-- <a class="btn btn-primary float-left" >Add to Cart</a> -->
+                           <!-- <a class="btn btn-primary float-right" (click)="buyProduct(product.id)">Buy Now</a> -->
+                        </div>
+                    </div>
+                </div> 
+            </ng-container>
+       
+    </div>
+</div>

@@ -1,0 +1,218 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Dininig Set",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/IT00050171-new.jpg",
+      "productDesc": "Silvia Solid Wood 4 Seater Dining With Bench",
+      "mrp": "12500",
+      "dp": 9000
+    },
+    {
+      "name": "Sofa",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/FLILLSFBMTBR69116D-1.jpg",
+      "mrp": "65000",
+      "productDesc": "Aleena Fabric 5 Seater L Shape Sofa Left In Brown",
+      "id": 4,
+      "dp": 63000
+    },
+    {
+      "name": "Sofa",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/IT00061878_(A)%20(1).jpg",
+      "mrp": "70000",
+      "productDesc": "Apollo L Shape Fabric Sofa Right With Pouf In Grey",
+      "id": 5,
+      "dp": 69000
+    },
+    {
+      "name": "Sofa",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/FLILLSLFMTBG11350M-1.jpg",
+      "mrp": "85000",
+      "productDesc": "Evok Joy L Shape 6 Seater Corner Sofa Lhs In Beige",
+      "id": 6,
+      "dp": 70000
+    },
+    {
+      "name": "Sofa",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/amberf/FLLSSSFBMTBG11386M-1.jpg",
+      "mrp": "20000",
+      "productDesc": "Alvin LHS 2+1+Diwan L shape Fabric Sofa In Light Beige",
+      "dp": 18000,
+      "id": 7
+    },
+    {
+      "name": "Sofa",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/amberf/FLLSSSFBBGMT69501M%20(1).jpg",
+      "mrp": "46000",
+      "productDesc": " Marco Fabric & Leatherette L shape Sofa Left In Beige",
+      "id": 8,
+      "dp": 40000
+    },
+    {
+      "name": "Dining Set",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/FDDSDSRWMTWN70789I-1.jpg",
+      "mrp": "65000",
+      "dp": 62000,
+      "productDesc": "Brighton Solid Wood Dining Set 1T + 4C + Bench - Walnut",
+      "id": 9
+    },
+    {
+      "name": "Dining Set",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/1WaylonDiningSet1+6FDDSDSSWSTWN70840D.jpg",
+      "mrp": "55000",
+      "dp": 50000,
+      "productDesc": "Cyrus Solidwood Dining Set 1+6 In Honey Color",
+      "id": 10
+    },
+    {
+      "name": "Dining Set",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/FDDSDSSWSTWN68068D-1.jpg",
+      "mrp": "19000",
+      "dp": 16000,
+      "productDesc": "Logan Solidwood Dining Set 1+4-Walnut",
+      "id": 11
+    },
+    {
+      "name": "Bed",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/AlexanderBed.jpg",
+      "mrp": "85300",
+      "dp": 80000,
+      "productDesc": "Alexander Solidwood King Bed With Hyd Storage-Dark Walnut",
+      "id": 13
+    },
+    {
+      "name": "Bed",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/Imporio%20Queen%20Bed%20Without%20Storage%20IT00050161%20(1).jpg",
+      "mrp": "30000",
+      "dp": 28000,
+      "productDesc": "Imporio Solid Wood King Bed Without Storage",
+      "id": 14
+    },
+    {
+      "name": "Bed",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/1TorinKingBedWithHydraulicStorageFBIBKBPBMTWN69386D.jpg",
+      "mrp": 53000,
+      "dp": 50000,
+      "productDesc": "Torin Engineerwood King Bed With Hydraulic Storage - White",
+      "id": 15
+    },
+    {
+      "name": "Bed",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/FBIBKBPBMTWN69407D-1.jpg",
+      "mrp": "90000",
+      "dp": 86000,
+      "productDesc": "Avril Engineerwood King Bed With Hydraulic Storage (Walnut)",
+      "id": 16
+    },
+    {
+      "name": "Bed",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/1MavisKingBedFBIBKBSWSTWN69655D.jpg",
+      "mrp": "60300",
+      "dp": 35000,
+      "productDesc": "Mavis Solid Wood King Bed Without Storage - Honey",
+      "id": 17
+    },
+    {
+      "name": "Bed",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/FBIBKBPBMTWN69391D-1.jpg",
+      "mrp": "50000",
+      "dp": 30000,
+      "productDesc": "Wendy Engineerwood King Bed With Hydraulic Storage - Black",
+      "id": 18
+    },
+    {
+      "name": "Wardrobe",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/FBIBWDPBMTWN69417D-1.jpg",
+      "mrp": "75000",
+      "dp": 50000,
+      "productDesc": "Drew Engineerwood 2 Door Sliding Wardrobe (Walnut)",
+      "id": 19
+    },
+    {
+      "name": "Wardrobe",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/1Citron3DoorWardrobeWithMirrorFBIBWDPBMTWN69405D.jpg",
+      "mrp": "30000",
+      "dp": 23000,
+      "productDesc": "Citron Engineerwood 3 Door Wardrobe With Mirror - Walnut",
+      "id": 20
+    },
+    {
+      "name": "Wardrobe",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/MALENA_4_DOOR_WARDROBE_WITH_3_DRW_FBIBWDPBMTBG68191I_(1)-min.jpg",
+      "mrp": "89000",
+      "dp": 70000,
+      "productDesc": "Malena Engineerwood 4 Door Wardrobe With 3 Drawer and Mirror",
+      "id": 21
+    },
+    {
+      "name": "Wardrobe",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/SKU_IT00037799_A.jpg",
+      "mrp": "45000",
+      "dp": 30000,
+      "productDesc": "Texas Engineerwood Three Door Wardrobe",
+      "id": 22
+    },
+    {
+      "name": "Wardrobe",
+      "uploadPhoto": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=460,height=460,quality=100,format=auto,fit=cover,g=top/in-resources/407e79ae-b096-4e8d-8e8f-44f6fc5ec664/Images/ProductImages/Source/JULIETA_7_DR_&_3_DRW_WARDROBE_FBIBWDPBMTWN68140I_(1).jpg",
+      "mrp": "65000",
+      "dp": 50000,
+      "productDesc": "Julieta Engineerwood 7 Door With 3 Drawer Wardrobe-Light",
+      "id": 23
+    },
+    {
+      "name": "sofa",
+      "uploadPhoto": "https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-blue__0891063_pe782234_s5.jpg?f=s",
+      "mrp": "50000",
+      "productDesc": "product",
+      "dp": "3000",
+      "id": 24
+    }
+  ],
+  "signup": [
+    {
+      "fname": "pooja",
+      "lname": "Raut",
+      "mobile": "7709217095",
+      "email": "poojaraut@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "fname": "Admin",
+      "lname": "",
+      "mobile": "7276840686",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "fname": "Swalia",
+      "lname": "Satav",
+      "mobile": "7709217095",
+      "email": "swalia12@gmail.com",
+      "password": "pooja@123",
+      "address": "kothrud",
+      "id": 3
+    },
+    {
+      "fullname": "pooja",
+      "username": "poojaraut",
+      "email": "pooja@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 4
+    },
+    {
+      "fullname": "Mahira Shinde",
+      "username": "kothrud",
+      "email": "mahira@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 5
+    }
+  ],
+  "orders": {}
+}

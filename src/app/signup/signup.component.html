@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>signup</title>
+</head>
+<body>
+
+  <div class="col-10 mx-auto text-center">
+  <h1
+  class="text-uppercase font-weight-bold text-yellow footer-title text-center d-inline-block" style="text-align: center;"
+>
+  comfy sloth
+</h1>
+<p style="font-size: large;">
+  One-Stop Solution For All Your Wooden Furniture Needs
+</p>
+</div>
+
+<app-banner2></app-banner2>
+<br><br>
+
+    <div class="container" style="margin: auto;">
+    
+             <div class="row">
+                 <div class="col-md-6">
+                     <div class="card">
+                         <div class="text-center">
+                     <h1>Signup</h1>
+                     <h6>Please enter the details</h6>
+                    </div> 
+             <form>
+                        <form [formGroup]="signupform" (ngSubmit)="signup()">
+                            <div class="mb-3">
+                              <label for="firstname" class="form-label">First Name</label>
+                              <input 
+                               formControlName="fname" type="text" class="form-control" id="fname"  required>
+            
+                            </div>
+
+
+
+                            <div class="mb-3">
+                              <label for="lastname" class="form-label">Last Name</label>
+                              <input formControlName="lname" type="text" class="form-control" id="lname">
+                            </div>
+                            <div class="mb-3">
+                                <label for="mob" class="form-label">Mobile No.</label>
+                                <input formControlName="mobile" type="text" class="form-control" id="mob">
+                              </div>
+                              <div class="mb-3">
+                                <label for="email" class="form-label">Email</label>
+                                <input formControlName="email" type="email" class="form-control" id="password">
+                              </div>
+                              <div class="mb-3">
+                                <label for="password" class="form-label">Password</label>
+                                <input formControlName="password"  type="password" class="form-control" id="password">
+                              </div>
+                        
+                              <div class="mb-3">
+                                <label for="address" class="form-label">Address</label>
+                                <input formControlName="address"  type="text-area" class="form-control" id="address">
+                              </div>
+
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                            </form>
+                            <a [routerLink]="['/login']"> <p style="color: brown;text-decoration:underline; margin-top: 20px;">Already have an accout??</p></a>
+                        
+                                                      </form>   </div>
+                                                      
+                                                    </div>
+                                                </div>
+                                            </div>
+             
+               
+
+
+
+</body>
+</html>

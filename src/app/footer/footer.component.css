@@ -1,0 +1,20 @@
+/* footer */
+.footer {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  .footer-title {
+    border: 0.2rem solid #fdbe02;
+    padding: 0.4rem;
+  }
+  .footer-icon {
+    color:#fdbe02;
+  }
+  .footer-icon:hover {
+    color: #fff;
+  }
+  p,.foo
+  {
+
+    color: white;
+    font-size: large;
+  }

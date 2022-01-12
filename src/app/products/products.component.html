@@ -1,0 +1,23 @@
+<app-navbar></app-navbar>
+<app-partners></app-partners>
+<br>
+
+<div class="row">
+    <div class="col-sm-4 product" *ngFor="let product of all_products;">
+        <div class="card">
+            <img src="{{product.uploadPhoto}}" class="card-img-top" alt="{{product.name}}">
+            <div class="card-body">
+                <h4 class="card-title">{{product.name}}</h4>
+                <p><span class="float-left"><strong>MRP</strong>: <del>{{product.mrp}}</del></span> &nbsp;&nbsp;<span class="float-right"><strong>DP</strong>:
+                        {{product.dp}}</span></p>
+                <br>
+                <p class="card-text product-desc">{{product.productDesc}}</p>
+                <button class="btn btn-primary" (click)=addtocart(product)>Add to cart</button>
+                 <!-- <a class="btn btn-primary float-left" >Add to Cart</a> -->
+               <!-- <a class="btn btn-primary float-right" (click)="buyProduct(product.id)">Buy Now</a> -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<app-footer></app-footer>

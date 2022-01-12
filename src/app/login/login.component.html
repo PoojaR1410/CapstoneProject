@@ -1,0 +1,54 @@
+
+<body>
+  <div class="col-10 mx-auto text-center">
+    <h1
+    class="text-uppercase font-weight-bold text-yellow footer-title text-center d-inline-block" style="text-align: center;"
+  >
+    comfy sloth
+  </h1>
+  <p style="font-size: large;">
+    One-Stop Solution For All Your Wooden Furniture Needs
+  </p>
+  </div>
+  
+  
+    <div class="container">
+             <div class="row">
+                 <div class="col-md-6">
+                     <div class="card">
+                         <div class="text-center">
+                     <h1>LOGIN</h1>
+                     <h6>Please enter Email and Password</h6>
+                    </div> 
+             <form>
+                        <form [formGroup]="loginform" (ngSubmit)="login()">
+
+
+                        
+
+
+                            <div class="mb-3">
+                              <label for="email" class="form-label">Email address</label>
+                              <input formControlName="email" type="email" class="form-control" id="email" aria-describedby="emailHelp">
+                            
+                              <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+
+                            </div>
+                            <div class="mb-3">
+                              <label for="password" class="form-label">Password</label>
+                              <input formControlName="password" type="password" class="form-control" id="password">
+                            </div>
+                        
+                            <button type="submit" class="btn btn-primary">Submit</button></form>
+                            <a [routerLink]="['/frm']"> <p style="color: brown;text-decoration:underline; margin-top: 20px;">New User??Sign Up</p></a>
+                        
+                                                      </form>   </div>
+                                                      
+                                                    </div>
+                                                </div>
+                                            </div>
+             
+               
+<br><br><br><br>
+
+
